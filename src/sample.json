@@ -1,0 +1,26 @@
+{
+    "formHeading": "heading",
+    "formSubheading": "subheading",
+    "mandatoryItemNames": "",
+    "questions": [
+        {
+            "modelName": "text_input",
+            "itemName": "in1",
+            "questionText": "question text input",
+            "placeholder": "placeholder",
+            "answer": "",
+            "regex": "[A-Za-z]{0,3}"
+        },
+        {
+            "modelName": "number_input",
+            "itemName": "in2",
+            "questionText": "question number input",
+            "placeholder": "",
+            "answer": "",
+            "commaFormatting": "true",
+            "currencyPrefix": "$",
+            "allowNegative": "",
+            "decimalScale": ""
+        }
+    ]
+}
