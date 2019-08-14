@@ -1,3 +1,8 @@
+
+## Generative Forms
+
+Generative forms is a module for react, which makes it easy to create nested forms using a config. The module takes a JSON in a predefined structure as the input and renders a completely functional form with validations. This eliminates the repetitive dev tasks which goes into building any form.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
